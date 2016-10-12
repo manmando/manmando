@@ -1,4 +1,5 @@
 <?
+// commento di test per git
 require_once('check_shell_call.php');
 $sub_menu[0] = array (
 	'area' => -1,
