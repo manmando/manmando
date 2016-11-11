@@ -3,6 +3,7 @@
 require_once('check_shell_call.php');
 // commento di test 20161020
 $sub_menu[0] = array (
+// commento di test ancora
 	'area' => -1,
 	'testo' =>  _('Pagina di default'),
 	'classe' => '',
