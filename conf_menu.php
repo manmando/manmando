@@ -1,6 +1,6 @@
 <?
 // commento di test 201611
-// commento di test per git
+
 require_once('check_shell_call.php');
 // commento di test 20161020
 $sub_menu[0] = array (
