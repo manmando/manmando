@@ -3,7 +3,7 @@
 // commento di test per git
 require_once('check_shell_call.php');
 
-$sub_menu[0] = array (
+$sub_menu[0] = array ( // commento
 // commento di test ancora
 	'area' => -1,
 	'testo' =>  _('Pagina di default'),
