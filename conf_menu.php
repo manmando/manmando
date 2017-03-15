@@ -1,6 +1,7 @@
 <?
 include('check_shell_call.php');
 $sub_menu[0] = array (
+
 	'area' => -1,
 	'testo' =>  _('Pagina di default'),
 	'classe' => '',
