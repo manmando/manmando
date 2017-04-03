@@ -1,5 +1,5 @@
 <?
-test 20170403 amend
+test 20170403 amend amend
 include('check_shell_call.php');
 $sub_menu[0] = array (
 
